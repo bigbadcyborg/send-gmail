@@ -13,6 +13,8 @@ Run:
 
 Automate using Python:
 
+    import subprocess
+    
     result = subprocess.run(["python", "send-gmail.py", senderEmail, appSpecificPassword, recipientEmail, subject, msg], capture_output=True, text=True)
 
 
