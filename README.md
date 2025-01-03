@@ -1,7 +1,7 @@
 
 Setup:<br>
     - Enable two-factor authentication within gmail account settings<br>
-    - Get app password @ http://myaccount.google.com/u/1/apppassword<br>
+    - Get your app password @ http://myaccount.google.com/u/1/apppassword<br>
 
 Install:
 
